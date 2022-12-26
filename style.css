@@ -169,6 +169,21 @@ body {
   color: hsl(224, 23%, 55%);
 }
 
+/* BUTTON HOVER STYLES  */
+
+.proceed-order:hover {
+  opacity: 0.7;
+}
+
+.cancel-order:hover {
+  color: black;
+}
+
+.change-position:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+
 @media only screen and (min-width: 600px) {
   body {
     background-image: url(./images/pattern-background-desktop.svg);
