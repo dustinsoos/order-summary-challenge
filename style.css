@@ -111,7 +111,7 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
   background-color: hsl(225, 100%, 98%);
   border-radius: 1rem;
-  margin: 1rem;
+  margin: 1.5rem;
   gap: 10px;
   align-items: center;
   padding-top: 20px;
@@ -149,7 +149,7 @@ body {
   border-radius: 10px;
   margin-left: 15px;
   margin-bottom: 20px;
-  padding: 0.5rem 0px;
+  padding: 1rem 0px;
   font-weight: 700;
   background-color: hsl(245, 75%, 52%);
   width: 90%;
